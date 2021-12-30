@@ -5,7 +5,7 @@ class alperdrsnn{
   public $self = [
     "name" => "Alper",
     "surname" => "Dursun",
-    "age" => 18
+    "age" => 19
   ];
   public $languages = [
     "php",
