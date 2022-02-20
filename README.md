@@ -17,7 +17,7 @@ class alperdrsnn{
   ];
   public $contacts = [
     "discord" => "alpr#9176",
-    "mail" => "alper@ravensoft.com.tr"
+    "mail" => "dursunalper1@gmail.com"
   ];
 }
 ```
