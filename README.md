@@ -5,7 +5,7 @@ class alperdrsnn{
   public $self = [
     "name" => "Alper",
     "surname" => "Dursun",
-    "age" => 19
+    "age" => 21
   ];
   public $languages = [
     "php",
@@ -13,11 +13,13 @@ class alperdrsnn{
     "java",
     "python",
     "go",
-    "c++"
+    "c++",
+    "c#",
+    "ruby"
   ];
   public $contacts = [
-    "discord" => "alpr#9176",
-    "mail" => "dursunalper1@gmail.com"
+    "discord" => "alpr#0001",
+    "mail" => "alper@algoring.net"
   ];
 }
 ```
